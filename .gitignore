@@ -1,3 +1,3 @@
-export/*
+exports/*
 
-credentials.json
+./credentials.json
