@@ -3,3 +3,4 @@
 
 *.code-workspace
 credentials.json
+config.json
