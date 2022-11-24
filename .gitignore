@@ -1,3 +1,5 @@
-exports/*
+/exports/*
+/logs
 
-./credentials.json
+*.code-workspace
+credentials.json
