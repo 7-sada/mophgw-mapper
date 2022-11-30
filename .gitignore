@@ -4,3 +4,5 @@
 *.code-workspace
 credentials.json
 api_config.json
+
+/__pycache__
